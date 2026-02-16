@@ -1,0 +1,7 @@
+vhdl work "totRojo.vhd"
+vhdl work "medfrec.vhd"
+vhdl work "DIVISOR.vhd"
+vhdl work "costal.vhd"
+vhdl work "controlador.vhd"
+vhdl work "CLASIFICADOR.vhd"
+vhdl work "principal.vhd"

@@ -1,0 +1,13 @@
+PH costal NULL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/costal.vhd sub00/vhpl00 1719010228
+AR principal behavioral C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/principal.vhd sub00/vhpl12 1719010240
+EN principal NULL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/principal.vhd sub00/vhpl11 1719010239
+AR totrojo behavioral C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/totRojo.vhd sub00/vhpl08 1719010236
+EN clasificador NULL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/CLASIFICADOR.vhd sub00/vhpl09 1719010237
+EN divisor NULL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/DIVISOR.vhd sub00/vhpl03 1719010231
+AR divisor behavioral C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/DIVISOR.vhd sub00/vhpl04 1719010232
+AR controlador behavioral C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/controlador.vhd sub00/vhpl06 1719010234
+EN controlador NULL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/controlador.vhd sub00/vhpl05 1719010233
+AR clasificador behavioral C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/CLASIFICADOR.vhd sub00/vhpl10 1719010238
+EN medfrec NULL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/medfrec.vhd sub00/vhpl01 1719010229
+EN totrojo NULL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/totRojo.vhd sub00/vhpl07 1719010235
+AR medfrec behavioral C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/medfrec.vhd sub00/vhpl02 1719010230

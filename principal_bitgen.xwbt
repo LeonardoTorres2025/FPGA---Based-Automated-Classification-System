@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\SD1\Documents\INTEGACION\prueba3\prueba2\principal.ncd
+OUTFILE=C:\Users\SD1\Documents\INTEGACION\prueba3\prueba2\principal.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=C:\Users\SD1\Documents\INTEGACION\prueba3\prueba2
+LICENSE=WebPack
+USER_INFO=210743946_0_0_559

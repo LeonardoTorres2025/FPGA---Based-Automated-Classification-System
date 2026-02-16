@@ -1,0 +1,5 @@
+set -tmpdir "E:/prueba3/prueba2/xst/projnav.tmp"
+set -xsthdpdir "E:/prueba3/prueba2/xst"
+elaborate
+-ifn totRojo.prj
+-ifmt mixed

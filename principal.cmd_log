@@ -1,0 +1,436 @@
+xst -intstyle ise -ifn "E:/prueba2/prueba2/principal.xst" -ofn "E:/prueba2/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba2/prueba2/principal.xst" -ofn "E:/prueba2/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba2/prueba2/principal.xst" -ofn "E:/prueba2/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba2/prueba2/principal.xst" -ofn "E:/prueba2/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba2/prueba2/principal.xst" -ofn "E:/prueba2/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba2/prueba2/principal.xst" -ofn "E:/prueba2/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba2/prueba2/principal.xst" -ofn "E:/prueba2/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba2/prueba2/principal.xst" -ofn "E:/prueba2/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba2/prueba2/principal.xst" -ofn "E:/prueba2/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba2/prueba2/principal.xst" -ofn "E:/prueba2/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba2/prueba2/principal.xst" -ofn "E:/prueba2/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba2/prueba2/principal.xst" -ofn "E:/prueba2/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.xst" -ofn "C:/Users/SDI/Downloads/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxISE_v2/prueba3/prueba2/principal.xst" -ofn "/home/ise/XilinxISE_v2/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxISE_v2/prueba3/prueba2/principal.xst" -ofn "/home/ise/XilinxISE_v2/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "D:/prueba3/prueba2/principal.xst" -ofn "D:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "D:/prueba3/prueba2/principal.xst" -ofn "D:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "D:/prueba3/prueba2/principal.xst" -ofn "D:/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "D:/prueba3/prueba2/principal.xst" -ofn "D:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "D:/prueba3/prueba2/principal.xst" -ofn "D:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "D:/prueba3/prueba2/principal.xst" -ofn "D:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "D:/prueba3/prueba2/principal.xst" -ofn "D:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "D:/prueba3/prueba2/principal.xst" -ofn "D:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "E:/prueba3/prueba2/principal.xst" -ofn "E:/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 
+xst -intstyle ise -ifn "C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/principal.xst" -ofn "C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/principal.xst" -ofn "C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/principal.xst" -ofn "C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/principal.syr" 
+xst -intstyle ise -ifn "C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/principal.xst" -ofn "C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/principal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pines.ucf -p xc3s500e-fg320-5 principal.ngc principal.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o principal_map.ncd principal.ngd principal.pcf 
+par -w -intstyle ise -ol high -t 1 principal_map.ncd principal.ncd principal.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml principal.twx principal.ncd -o principal.twr principal.pcf -ucf pines.ucf 
+bitgen -intstyle ise -f principal.ut principal.ncd 

@@ -1,0 +1,82 @@
+V3 58
+FL /home/ise/XilinxISE_v2/prueba3/prueba2/CLASIFICADOR.vhd 2024/06/06.01:37:22 P.20131013
+FL /home/ise/XilinxISE_v2/prueba3/prueba2/controlador.vhd 2024/06/06.07:29:00 P.20131013
+FL /home/ise/XilinxISE_v2/prueba3/prueba2/costal.vhd 2024/06/06.07:29:00 P.20131013
+FL /home/ise/XilinxISE_v2/prueba3/prueba2/DIVISOR.vhd 2024/06/06.07:29:00 P.20131013
+FL /home/ise/XilinxISE_v2/prueba3/prueba2/medfrec.vhd 2024/06/06.07:29:00 P.20131013
+FL /home/ise/XilinxISE_v2/prueba3/prueba2/principal.vhd 2024/06/06.07:30:00 P.20131013
+FL /home/ise/XilinxISE_v2/prueba3/prueba2/totRojo.vhd 2024/06/06.07:30:00 P.20131013
+FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/CLASIFICADOR.vhd 2024/06/22.00:46:59 P.20131013
+EN work/CLASIFICADOR 1719010237 \
+      FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/CLASIFICADOR.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/CLASIFICADOR/Behavioral 1719010238 \
+      FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/CLASIFICADOR.vhd \
+      EN work/CLASIFICADOR 1719010237
+FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/controlador.vhd 2024/06/21.17:51:02 P.20131013
+EN work/controlador 1719010233 \
+      FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/controlador.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/controlador/Behavioral 1719010234 \
+      FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/controlador.vhd \
+      EN work/controlador 1719010233
+FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/costal.vhd 2024/06/22.00:50:07 P.20131013
+PH work/costal 1719010228 \
+      FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/costal.vhd \
+      PB ieee/std_logic_1164 1381692176 CD medfrec CD DIVISOR CD controlador \
+      CD CLASIFICADOR CD totRojo
+FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/DIVISOR.vhd 2024/06/20.18:28:46 P.20131013
+EN work/DIVISOR 1719010231 \
+      FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/DIVISOR.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/divisor/Behavioral 1719010232 \
+      FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/DIVISOR.vhd \
+      EN work/DIVISOR 1719010231
+FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/medfrec.vhd 2024/06/06.01:29:00 P.20131013
+EN work/medfrec 1719010229 \
+      FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/medfrec.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/medfrec/Behavioral 1719010230 \
+      FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/medfrec.vhd \
+      EN work/medfrec 1719010229
+FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/principal.vhd 2024/06/22.00:50:27 P.20131013
+EN work/principal 1719010239 \
+      FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/principal.vhd \
+      PB ieee/std_logic_1164 1381692176 PH work/costal 1719010228
+AR work/principal/Behavioral 1719010240 \
+      FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/principal.vhd \
+      EN work/principal 1719010239 CP medfrec CP DIVISOR CP controlador CP totRojo \
+      CP CLASIFICADOR
+FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/totRojo.vhd 2024/06/20.16:56:38 P.20131013
+EN work/totRojo 1719010235 \
+      FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/totRojo.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/totRojo/Behavioral 1719010236 \
+      FL C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/totRojo.vhd \
+      EN work/totRojo 1719010235
+FL C:/Users/SDI/Downloads/prueba3/prueba2/CLASIFICADOR.vhd 2024/06/05.15:50:03 P.20131013
+FL C:/Users/SDI/Downloads/prueba3/prueba2/controlador.vhd 2024/06/05.15:22:53 P.20131013
+FL C:/Users/SDI/Downloads/prueba3/prueba2/costal.vhd 2024/06/05.19:28:00 P.20131013
+FL C:/Users/SDI/Downloads/prueba3/prueba2/DIVISOR.vhd 2024/06/05.15:05:53 P.20131013
+FL C:/Users/SDI/Downloads/prueba3/prueba2/medfrec.vhd 2024/06/05.19:28:00 P.20131013
+FL C:/Users/SDI/Downloads/prueba3/prueba2/principal.vhd 2024/06/05.14:56:44 P.20131013
+FL C:/Users/SDI/Downloads/prueba3/prueba2/totRojo.vhd 2024/06/05.19:28:00 P.20131013
+FL D:/prueba3/prueba2/CLASIFICADOR.vhd 2024/06/11.17:16:46 P.20131013
+FL D:/prueba3/prueba2/controlador.vhd 2024/06/11.17:20:42 P.20131013
+FL D:/prueba3/prueba2/costal.vhd 2024/06/06.01:29:00 P.20131013
+FL D:/prueba3/prueba2/DIVISOR.vhd 2024/06/11.17:12:12 P.20131013
+FL D:/prueba3/prueba2/medfrec.vhd 2024/06/06.01:29:00 P.20131013
+FL D:/prueba3/prueba2/principal.vhd 2024/06/06.01:30:00 P.20131013
+FL D:/prueba3/prueba2/totRojo.vhd 2024/06/06.01:30:00 P.20131013
+FL E:/prueba3/prueba2/CLASIFICADOR.vhd 2024/06/21.17:51:02 P.20131013
+FL E:/prueba3/prueba2/controlador.vhd 2024/06/21.17:51:02 P.20131013
+FL E:/prueba3/prueba2/costal.vhd 2024/06/13.18:53:36 P.20131013
+FL E:/prueba3/prueba2/DIVISOR.vhd 2024/06/20.18:28:46 P.20131013
+FL E:/prueba3/prueba2/medfrec.vhd 2024/06/06.01:29:00 P.20131013
+FL E:/prueba3/prueba2/principal.vhd 2024/06/13.18:52:06 P.20131013
+FL E:/prueba3/prueba2/totRojo.vhd 2024/06/20.16:56:38 P.20131013

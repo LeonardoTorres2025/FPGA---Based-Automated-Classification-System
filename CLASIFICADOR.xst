@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/SD1/Documents/INTEGACION/prueba3/prueba2/xst"
+elaborate
+-ifn CLASIFICADOR.prj
+-ifmt mixed
